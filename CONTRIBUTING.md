@@ -6,7 +6,6 @@ We welcome contributions in several forms, e.g.
 * Documenting
 * Testing
 * Coding
-* etc.
 
 Please read [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star](https://smartbear.com/blog/test-and-monitor/14-ways-to-contribute-to-open-source-without-being/ ).
 
